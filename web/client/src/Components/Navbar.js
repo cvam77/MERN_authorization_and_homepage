@@ -60,7 +60,7 @@
     return (
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
              <Link to="/">
-                    <div className="navbar-brand"> Watchman </div>
+                    <div className="navbar-brand"> MERN APP </div>
                 </Link>
            
                 <div className="collapse navbar-collapse" id="navbarText">

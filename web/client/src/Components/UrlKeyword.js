@@ -65,7 +65,7 @@ const UrlKeyword = props => {
                     value={urlKeyword.url}
                     onChange={onChange}
                     className="form-control"
-                    placeholder="Please enter Url and Keyword"
+                    placeholder="Please Enter Anything You Like"
                     />
                 <button className="btn btn-lg btn-primary btn-block" type="submit">Submit</button>
             </form>
